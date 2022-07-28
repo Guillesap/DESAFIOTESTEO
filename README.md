@@ -1,7 +1,5 @@
-# Probando la API Rest
-Desafío entregable para el curso de backend de Coderhouse
 
-# Arquitectura en capas
+# Testeo
 
 <h2 align="center">⭐️Desafio Testeo, basado en proyecto "VHS" ⭐️</h2>
 
